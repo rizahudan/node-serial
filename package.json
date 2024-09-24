@@ -1,0 +1,11 @@
+{
+  "name": "node-serial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rizahudan/node-serial.git",
+  "author": "Hudan Muhammad Riza <riza@alterra.id>",
+  "license": "MIT",
+  "dependencies": {
+    "serialport": "12.0.0"
+  }
+}
